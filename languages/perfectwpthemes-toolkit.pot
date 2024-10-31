@@ -1,0 +1,1011 @@
+# Copyright (C) 2023 perfectwpthemes
+# This file is distributed under the GPL-2.0+.
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfectwpthemes Toolkit 1.0.6\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/perfectwpthemes-toolkit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-05-20T03:20:19+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: perfectwpthemes-toolkit\n"
+
+#. Plugin Name of the plugin
+msgid "Perfectwpthemes Toolkit"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://perfectwpthemes.com/perfectwpthemes-toolkit"
+msgstr ""
+
+#. Description of the plugin
+msgid "An essential toolkit for themes made by perfectwpthemes."
+msgstr ""
+
+#. Author of the plugin
+msgid "perfectwpthemes"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://perfectwpthemes.com"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s theme version
+#: includes/admin-notice.php:27
+#: includes/themes/masonry-blog-pro/admin-notices.php:25
+msgid "Welcome to %1$s - Version %2$s"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s link
+#: includes/admin-notice.php:34
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr ""
+
+#. translators: %s theme name
+#: includes/admin-notice.php:42
+#: includes/theme-info/class-theme-info.php:198
+#: includes/themes/masonry-blog-pro/admin-notices.php:40
+msgid "Get started with %s"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:66
+msgid "Profile & Links"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:69
+msgid "Designation (Title)"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:76
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:83
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:90
+msgid "Instagram Profile Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:97
+msgid "Linkedin Profile Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:104
+msgid "Pinterest Profile Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:111
+msgid "Youtube Channel Link"
+msgstr ""
+
+#: includes/custom-fields/author-profile-links.php:118
+msgid "VK Link"
+msgstr ""
+
+#: includes/custom-fields/sidebar-position.php:36
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/custom-fields/sidebar-position.php:61
+msgid "Right"
+msgstr ""
+
+#: includes/custom-fields/sidebar-position.php:62
+msgid "Left"
+msgstr ""
+
+#: includes/custom-fields/sidebar-position.php:63
+msgid "Fullwidth"
+msgstr ""
+
+#: includes/custom-fields/sidebar-position.php:75
+#: includes/themes/glaze-blog-lite/custom-fields/single-layout.php:70
+#: includes/themes/glaze-blog/custom-fields/single-layout.php:70
+msgid "selected"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:138
+msgid "No image selected"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:144
+msgid "Remove"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:145
+msgid "Select Image"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:154
+msgid "Select Category"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:155
+#: includes/customizer/controls/class-customizer-repeater-control.php:255
+msgid "Latest Posts"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:281
+msgid "Delete"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:284
+msgid "|"
+msgstr ""
+
+#: includes/customizer/controls/class-customizer-repeater-control.php:287
+msgid "Close"
+msgstr ""
+
+#: includes/demo-importer/admin/class-pwpt-admin.php:31
+msgid "The %2$Perfectwpthemes Demo Importer%3$s plugin requires %2$sPHP 5.3.2+%3$s to run properly. Please contact your hosting company and ask them to update the PHP version of your site to at least PHP 5.3.2.%4$s Your current version of PHP: %2$s%1$s%3$s"
+msgstr ""
+
+#: includes/demo-importer/class-perfectwpthemes-demo-importer.php:54
+#: includes/demo-importer/class-perfectwpthemes-demo-importer.php:63
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:71
+msgid "\"import_file_url\" or \"local_import_file\" for %s%s%s are not defined!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:175
+msgid "URL for %s%s%s file is not defined!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:197
+msgid "An error occurred while fetching %s%s%s file from the server!%sReason: %s - %s."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:238
+#: includes/demo-importer/class-pwpt-helpers.php:283
+msgid "An error occurred while writing file to your server! Tried to write a file to: %s%s."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:319
+msgid "An error occurred while reading a file from your server! Tried reading file from path: %s%s."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:343
+msgid "This WordPress page does not have %sdirect%s write file access. This plugin needs it in order to save the demo import xml file to the upload directory of your site. You can change this setting with these instructions: %s."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:354
+msgid "Perfectwpthemes Demo Import"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:355
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:367
+msgid "An error occurred while retrieving reading/writing permissions to your server (could not retrieve WP filesystem credentials)!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:375
+msgid "Your WordPress login credentials don't allow to use WP_Filesystem!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:442
+msgid "Perfectwpthemes Demo Import - "
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:479
+msgid "%sYour user role isn't high enough. You don't have permission to import demo data.%s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:516
+msgid "Please upload XML file for content import. If you want to import widgets or customizer settings only, please use Widget Importer & Exporter or the Customizer Export/Import plugin."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:518
+#: includes/demo-importer/class-pwpt-helpers.php:539
+#: includes/demo-importer/class-pwpt-helpers.php:557
+#: includes/demo-importer/class-pwpt-helpers.php:565
+msgid "Upload files"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:535
+msgid "Widget file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:553
+msgid "Customizer file was not uploaded. Error: %s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:563
+msgid "The import files were successfully uploaded!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:581
+msgid "Initial max execution time = %s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:585
+msgid "Files info:%1$sSite URL = %2$s%1$sData file = %3$s%1$sWidget file = %4$s%1$sCustomizer file = %5$s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-helpers.php:589
+#: includes/demo-importer/class-pwpt-helpers.php:590
+msgid "not defined!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:55
+#: includes/demo-importer/class-pwpt-main.php:78
+msgid "Perfectwpthemes Demo Importer"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:56
+#: includes/themes/glaze-blog-lite/info.php:53
+#: includes/themes/glaze-blog/info.php:48
+#: includes/themes/masonry-blog-pro/info.php:51
+#: includes/themes/masonry-blog/info.php:53
+msgid "Import Demo Content"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:75
+msgid "If you already have content on your website, you are recommended not to import demo content. And before you begin importing demo content, make sure all the required plugins are installed and activated."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:86
+msgid "%sWarning: your server is using %sPHP safe mode%s. This means that you might experience server timeout errors.%s"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:97
+msgid "Import demo content from the demo below:"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:99
+msgid "Select any one of the available demos to import content from."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:124
+#: includes/demo-importer/class-pwpt-main.php:152
+msgid "Live Preview"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:126
+msgid "By Perfectwpthemes"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:150
+#: includes/themes/glaze-blog-lite/info.php:22
+#: includes/themes/glaze-blog-lite/info.php:55
+#: includes/themes/glaze-blog/info.php:22
+#: includes/themes/glaze-blog/info.php:50
+#: includes/themes/masonry-blog-pro/info.php:25
+#: includes/themes/masonry-blog-pro/info.php:53
+#: includes/themes/masonry-blog/info.php:22
+#: includes/themes/masonry-blog/info.php:55
+msgid "Import Demo"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:178
+msgid "Import preview:"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:182
+#: includes/demo-importer/class-pwpt-main.php:219
+msgid "No preview image defined for this import."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:194
+msgid "Click the \"Import Demo\" button once and wait. The import process may take few minutes."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:195
+msgid "Sometimes some of the elements may not be imported, due to some errors. So manually configure them."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:275
+msgid "Manually uploaded files"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:291
+#: includes/demo-importer/class-pwpt-main.php:302
+msgid "Downloaded files"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:298
+msgid "The import files for: %s were successfully downloaded!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:307
+msgid "No import files specified!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:356
+msgid "The demo import has finished. Please check your page and make sure that everything has imported correctly."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:361
+msgid "The demo import has finished, but there were some import errors.%s More details about the errors can be found in this %s %slog file%s %s."
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:413
+msgid "Max execution time after content import = "
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:415
+msgid "Importing content"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:454
+#: includes/demo-importer/class-pwpt-main.php:466
+msgid "Importing widgets"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:488
+#: includes/demo-importer/class-pwpt-main.php:496
+msgid "Importing customizer settings"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:494
+msgid "Customizer settings import finished!"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:548
+msgid "Completed AJAX call number: "
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:636
+msgid "Upload Max filesize"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:641
+msgid "Max Input Time"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:646
+msgid "Memory Limit"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:651
+msgid "Max Execution Time"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:656
+msgid "PHP Post Max Size"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:664
+msgid "Your server&rsquo;s settings"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:669
+msgid "Settings"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:670
+msgid "Expected"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:671
+msgid "Obtained"
+msgstr ""
+
+#: includes/demo-importer/class-pwpt-main.php:693
+msgid "Note: To import demo content properly, please check your server&rsquo;s setting before importing demo content. The Expected values are not perfect. So configure your server&rsquo;s settings as higher as possible."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-customizer-importer.php:36
+msgid "The customizer import file is missing! File path: %s"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-customizer-importer.php:56
+msgid "The customizer import file is not in a correct format. Please make sure to use the correct customizer import file."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-customizer-importer.php:62
+msgid "The customizer import file is not suitable for current theme. You can only import customizer settings for the same theme or a child theme."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:44
+msgid "Widget import file could not be found."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:76
+msgid "Widget import data could not be read. Please try a different file."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:115
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:137
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:172
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:230
+msgid "Imported"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:233
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:239
+msgid "No Title"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-widget.php:288
+msgid "No results for widget import!"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:134
+msgid "Could not open the file for parsing"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:171
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:288
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:362
+msgid "This WXR file (version %s) is newer than the importer (version %s) and may not be supported. Please consider updating."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:514
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:578
+msgid "Invalid author mapping"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:682
+msgid "Cannot import auto-draft posts"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:772
+msgid "Failed to import \"%s\": Invalid post type %s"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:783
+msgid "%s \"%s\" already exists."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:863
+msgid "Skipping attachment \"%s\", fetching attachments disabled"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:878
+msgid "Failed to import \"%s\" (%s)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:911
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1740
+msgid "Imported \"%s\" (%s)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:916
+msgid "Post %d remapped to %d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1061
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1549
+msgid "Failed to import user \"%s\""
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1571
+msgid "Imported user \"%s\""
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1575
+msgid "User %d remapped to %d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1715
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1745
+msgid "Term %d remapped to %d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1801
+msgid "Remote server returned %1$d %2$s for %3$s"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1815
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1821
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1827
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1850
+msgid "Running post-processing for post %d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1863
+msgid "Could not find the post parent for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1868
+msgid "Post %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1882
+msgid "Could not find the author for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1887
+msgid "Post %d was imported with author \"%s\", but could not be found"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1913
+msgid "Post %d was marked for post-processing, but none was required."
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1924
+msgid "Could not update \"%s\" (post #%d) with mapped data"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1969
+msgid "Could not find the menu object for \"%s\" (post #%d)"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1974
+msgid "Post %d was imported with object \"%d\" of type \"%s\", but could not be found"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:1996
+msgid "Could not find the comment parent for comment #%d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:2000
+msgid "Comment %d was imported with parent %d, but could not be found"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:2014
+msgid "Could not find the author for comment #%d"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:2018
+msgid "Comment %d was imported with author %d, but could not be found"
+msgstr ""
+
+#: includes/demo-importer/importer/class-pwpt-importer-wxr-importer.php:2035
+msgid "Could not update comment #%d with mapped data"
+msgstr ""
+
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog-lite.php:15
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog.php:15
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-masonry-blog.php:22
+msgid "Demo One"
+msgstr ""
+
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog-lite.php:23
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog.php:23
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-masonry-blog.php:30
+msgid "Demo Two"
+msgstr ""
+
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog.php:31
+msgid "Demo Three"
+msgstr ""
+
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog.php:39
+msgid "Demo Four"
+msgstr ""
+
+#: includes/demo-importer/theme-demo/class-pwpt-theme-demo-glaze-blog.php:47
+msgid "Demo Five"
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:198
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$swelcome page%3$s."
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:341
+msgid "Current Version: "
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:623
+msgid "Install"
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:627
+msgid "Activate"
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:631
+msgid "Deactivate"
+msgstr ""
+
+#: includes/theme-info/class-theme-info.php:666
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/custom-fields/single-layout.php:32
+#: includes/themes/glaze-blog/custom-fields/single-layout.php:32
+msgid "Single Layout"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/custom-fields/single-layout.php:57
+#: includes/themes/glaze-blog/custom-fields/single-layout.php:57
+msgid "Layout One"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/custom-fields/single-layout.php:58
+#: includes/themes/glaze-blog/custom-fields/single-layout.php:58
+msgid "Layout Two"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:30
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:30
+msgid "Social Share"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:37
+msgid "Site Color"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:61
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:54
+msgid "Display Social Share"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:61
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:54
+msgid "Global control for social share."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:63
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:56
+msgid "Blog Page"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:64
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:57
+msgid "Archive Page"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:65
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:58
+msgid "Search Page"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:66
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:59
+msgid "Post Single"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:67
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:60
+msgid "Page Single"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:69
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:62
+msgid "Facebook"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:70
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:63
+msgid "Twitter"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:71
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:64
+msgid "Pinterest"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:72
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:65
+msgid "Linkedin"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:73
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:66
+msgid "Reddit"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:74
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:67
+msgid "Tumblr"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:75
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:68
+msgid "Digg"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:76
+#: includes/themes/glaze-blog/customizer/functions/customizer-fields.php:69
+msgid "VK"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/customizer/functions/customizer-fields.php:82
+msgid "Primary Color"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:370
+#: includes/themes/glaze-blog/functions.php:229
+msgid "Share on Facebook"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:378
+#: includes/themes/glaze-blog/functions.php:237
+msgid "Twitt on Twitter"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:386
+#: includes/themes/glaze-blog/functions.php:245
+msgid "Pin on Pinterest"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:394
+#: includes/themes/glaze-blog/functions.php:253
+msgid "Share on Linkedin"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:402
+#: includes/themes/glaze-blog/functions.php:261
+msgid "Share on Reddit"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:410
+#: includes/themes/glaze-blog/functions.php:269
+msgid "Share on Tumblr"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:418
+#: includes/themes/glaze-blog/functions.php:277
+msgid "Share on Digg"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:426
+#: includes/themes/glaze-blog/functions.php:285
+msgid "Share on VK"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:500
+#: includes/themes/glaze-blog/functions.php:364
+msgid "Follow on facebook"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:508
+#: includes/themes/glaze-blog/functions.php:372
+msgid "Follow on twitter"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:516
+#: includes/themes/glaze-blog/functions.php:380
+msgid "Follow on instagram"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:524
+#: includes/themes/glaze-blog/functions.php:388
+msgid "Follow on pinterest"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:532
+#: includes/themes/glaze-blog/functions.php:396
+msgid "Subscribe at youtube"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:540
+#: includes/themes/glaze-blog/functions.php:404
+msgid "Connect on linkedin"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/functions.php:548
+#: includes/themes/glaze-blog/functions.php:412
+msgid "Follow on vk"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:13
+#: includes/themes/glaze-blog-lite/info.php:14
+msgid "Glaze Blog Lite Info"
+msgstr ""
+
+#. translators: theme version
+#: includes/themes/glaze-blog-lite/info.php:17
+#: includes/themes/glaze-blog/info.php:17
+#: includes/themes/masonry-blog-pro/info.php:20
+#: includes/themes/masonry-blog/info.php:17
+msgid "Welcome to %s"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:27
+#: includes/themes/glaze-blog/info.php:27
+#: includes/themes/masonry-blog/info.php:27
+msgid "Theme Details"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:31
+#: includes/themes/glaze-blog/info.php:31
+#: includes/themes/masonry-blog-pro/info.php:34
+#: includes/themes/masonry-blog/info.php:31
+msgid "View Demo"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:35
+#: includes/themes/glaze-blog/info.php:35
+#: includes/themes/masonry-blog-pro/info.php:38
+#: includes/themes/masonry-blog/info.php:35
+msgid "View Documentation"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:39
+#: includes/themes/masonry-blog/info.php:39
+msgid "Upgrade To Pro Theme"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:47
+#: includes/themes/glaze-blog/info.php:42
+#: includes/themes/masonry-blog-pro/info.php:45
+#: includes/themes/masonry-blog/info.php:47
+msgid "Getting Started"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:54
+#: includes/themes/glaze-blog/info.php:49
+#: includes/themes/masonry-blog-pro/info.php:52
+#: includes/themes/masonry-blog/info.php:54
+msgid "Setup theme easily by importing demo contents."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:62
+#: includes/themes/glaze-blog/info.php:57
+#: includes/themes/masonry-blog-pro/info.php:60
+#: includes/themes/masonry-blog/info.php:62
+msgid "Theme Documentation"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:63
+#: includes/themes/glaze-blog/info.php:58
+#: includes/themes/masonry-blog-pro/info.php:61
+#: includes/themes/masonry-blog/info.php:63
+msgid "Find step by step instructions with video documentation to setup theme easily."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:64
+#: includes/themes/glaze-blog/info.php:59
+#: includes/themes/masonry-blog-pro/info.php:62
+#: includes/themes/masonry-blog/info.php:64
+msgid "View documentation"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:71
+#: includes/themes/glaze-blog/info.php:66
+#: includes/themes/masonry-blog-pro/info.php:69
+#: includes/themes/masonry-blog/info.php:71
+msgid "Customize Everything"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:72
+#: includes/themes/glaze-blog/info.php:67
+#: includes/themes/masonry-blog-pro/info.php:70
+#: includes/themes/masonry-blog/info.php:72
+msgid "Start customizing every aspect of the website with customizer."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:73
+#: includes/themes/glaze-blog/info.php:68
+#: includes/themes/masonry-blog-pro/info.php:71
+#: includes/themes/masonry-blog/info.php:73
+msgid "Go to Customizer"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:80
+#: includes/themes/glaze-blog/info.php:76
+#: includes/themes/masonry-blog-pro/info.php:79
+#: includes/themes/masonry-blog/info.php:80
+msgid "Youtube Video Tutorials"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:81
+#: includes/themes/glaze-blog/info.php:77
+#: includes/themes/masonry-blog-pro/info.php:80
+#: includes/themes/masonry-blog/info.php:81
+msgid "Please check our youtube channel for video instructions of perfectwpthemes-toolkit setup and customization."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:82
+#: includes/themes/glaze-blog/info.php:78
+#: includes/themes/masonry-blog-pro/info.php:81
+#: includes/themes/masonry-blog/info.php:82
+msgid "Video Tutorials"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:89
+#: includes/themes/masonry-blog/info.php:89
+msgid "Pro Version"
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:90
+#: includes/themes/masonry-blog/info.php:90
+msgid "Upgrade to pro version for additional features and options."
+msgstr ""
+
+#: includes/themes/glaze-blog-lite/info.php:91
+#: includes/themes/masonry-blog/info.php:91
+msgid "View Pro Version"
+msgstr ""
+
+#: includes/themes/glaze-blog/class-glaze-blog-theme.php:91
+msgid "Instagram Widget Area"
+msgstr ""
+
+#: includes/themes/glaze-blog/class-glaze-blog-theme.php:93
+msgid "Add widgets here."
+msgstr ""
+
+#: includes/themes/glaze-blog/info.php:13
+#: includes/themes/glaze-blog/info.php:14
+msgid "Glaze Blog Info"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:19
+msgid "GBL: Instagram Widget"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:21
+msgid "Displays Instagram Images."
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:118
+msgid "Title"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:125
+msgid "Access Token"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:129
+msgid "If you do not have a token. Follow the link, "
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:130
+msgid "Generate Token"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:136
+msgid "Number of Image"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:143
+msgid "Instagram Profile Link Title"
+msgstr ""
+
+#: includes/themes/glaze-blog/widgets/instagram-widget.php:150
+msgid "Instagram Profile Link URL"
+msgstr ""
+
+#. translators: %1$s: theme name, %2$s link
+#: includes/themes/masonry-blog-pro/admin-notices.php:32
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of our premium plugin please make sure you visit our <a href=\"%2$s\">Welcome page</a>"
+msgstr ""
+
+#: includes/themes/masonry-blog-pro/info.php:13
+#: includes/themes/masonry-blog-pro/info.php:14
+msgid "Masonry Blog Pro Info"
+msgstr ""
+
+#: includes/themes/masonry-blog-pro/info.php:30
+msgid "Plugin&rsquo;s Details"
+msgstr ""
+
+#: includes/themes/masonry-blog/info.php:13
+#: includes/themes/masonry-blog/info.php:14
+msgid "Masonry Blog Info"
+msgstr ""
